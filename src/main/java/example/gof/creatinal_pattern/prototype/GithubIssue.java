@@ -1,4 +1,4 @@
-package example.gof.creatinal_pattern.proxy;
+package example.gof.creatinal_pattern.prototype;
 
 import lombok.Getter;
 import lombok.Setter;

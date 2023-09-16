@@ -1,5 +1,7 @@
 package example.gof.structural_pattern.decorator;
 
+import org.springframework.context.annotation.Scope;
+
 public class Client {
 
     private final CommentService commentService;
